@@ -10,7 +10,7 @@
     "csv-parse": "^4.4.3",
     "csv-parser": "^2.3.0",
     "csv-writer": "^1.5.0",
-    "fast-csv": "^3.1.0",
+    "fast-csv": "^4.3.6",
     "yargs": "^13.3.0",
     "yargs-interactive": "^3.0.0"
   },
